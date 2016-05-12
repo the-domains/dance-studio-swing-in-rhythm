@@ -1,7 +1,7 @@
 name: Dance studio Swing in Rhythm
 favicon: null
-layout_spectrum: 0.08724031900055707
-typography_spectrum: 0.019463701639324427
+layout_spectrum: 0.33995
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#151718'
+    - '#face00'
+    - '#744c00'
+    - '#eaeff1'
+    - '#00778d'
   brandStrength: 0.7968600622843951
   lightness: 0.3864779695868492
   saturation: 0.3564321049489081
