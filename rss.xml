@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dance studio Swing in Rhythm]]></title>
+        <description><![CDATA[Dance studio Swing in Rhythm]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 May 2016 15:02:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Swing in Rhythm - Swing in Rhythm]]></title>
+            <description><![CDATA[<article><h1>Swing in Rhythm - Swing in Rhythm</h1><p>Learning to dance is easier than you think! Learn the authentic swing dances in Rotterdam and the surrounding area. Fun, playful and energetic! These social partner dances focus on leading, following and connecting to your partner and the music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acc457dd0295df42bd32af1a941083883e15c2a0.png"></article>]]></description>
+            <link>http://swinginrhythm.nl/</link>
+            <guid isPermaLink="false">dc6cabe1-fdf0-4723-ac07-f6e5f6a85767</guid>
+            <pubDate>Thu, 12 May 2016 15:01:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
