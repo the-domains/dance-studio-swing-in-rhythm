@@ -1,0 +1,28 @@
+name: Dance studio Swing in Rhythm
+favicon: null
+layout_spectrum: 0.08724031900055707
+typography_spectrum: 0.019463701639324427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7968600622843951
+  lightness: 0.3864779695868492
+  saturation: 0.3564321049489081
+  rhythmicContrast: 0.5402048395480961
+purpose: []
